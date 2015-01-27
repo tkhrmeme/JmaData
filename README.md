@@ -24,3 +24,8 @@ pandasで加工してグラフを描画する。
 ・観測環境などの変化にかかわらず、すべての期間の値を表示(格納)する。ただしデータの不均質を示す情報をつける。
 ・すべて数値で格納(現象あり・なし情報、品質情報は数値で格納)・日付リテラルで格納
 
+# ビュワーで見る
+
+ipython notebookで作成されたコードはnbviewerから閲覧できる。
+
+サンプル <http://nbviewer.ipython.org/github/tkhrmeme/JmaData/blob/master/JMA.ipynb>

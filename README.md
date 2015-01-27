@@ -1,6 +1,8 @@
 # 気象庁＿気象データ
 過去の気象データ・ダウンロード <http://www.data.jma.go.jp/gmd/risk/obsdl/index.php> から取得したCSVデータを
-pandasで加工してグラフを描画する。
+pandasで加工してグラフを描画するサンプルコード。
+
+・参考：ダウンロードファイル(CSVファイル)の形式 <http://www.data.jma.go.jp/gmd/risk/obsdl/top/help3.html>
 
 ## ダウンロードの方法
 
